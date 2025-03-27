@@ -1,0 +1,9 @@
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\bin\Debug\BLayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\bin\Debug\BLayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\bin\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\bin\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\obj\Debug\BLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\obj\Debug\BLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\obj\Debug\BLayer.csproj.Up2Date
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\obj\Debug\BLayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\obj\Debug\BLayer.pdb

@@ -1,0 +1,18 @@
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\bin\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\bin\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\obj\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\obj\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\bin\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\bin\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\obj\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\obj\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\DALayer\bin\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\DALayer\bin\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\DALayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\DALayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\DALayer\obj\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\DALayer\obj\Debug\DALayer.pdb

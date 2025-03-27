@@ -1,0 +1,6 @@
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\bin\Release\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\bin\Release\DALayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\obj\Release\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\DALayer\obj\Release\DALayer.pdb

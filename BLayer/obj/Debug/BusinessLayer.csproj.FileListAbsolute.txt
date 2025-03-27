@@ -1,0 +1,27 @@
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\bin\Debug\BLayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\bin\Debug\BLayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\bin\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\bin\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\obj\Debug\BLayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\BLayer\obj\Debug\BLayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\bin\Debug\BLayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\bin\Debug\BLayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\bin\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\bin\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\obj\Debug\BLayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\obj\Debug\BLayer.pdb
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\BLayer\bin\Debug\BLayer.dll
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\BLayer\bin\Debug\BLayer.pdb
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\BLayer\bin\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\BLayer\bin\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\BLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\BLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\BLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\BLayer\obj\Debug\BLayer.dll
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\BLayer\obj\Debug\BLayer.pdb

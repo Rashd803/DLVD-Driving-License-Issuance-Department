@@ -1,0 +1,6 @@
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\bin\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\bin\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\obj\Debug\DALayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\obj\Debug\DALayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\obj\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\RealProjectPLayer\DALayer\obj\Debug\DALayer.pdb

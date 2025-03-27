@@ -1,0 +1,9 @@
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\bin\Release\BLayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\bin\Release\BLayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\bin\Release\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\bin\Release\DALayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\obj\Release\Business.EA331CBA.Up2Date
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\obj\Release\BLayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\BLayer\obj\Release\BLayer.pdb
