@@ -1,0 +1,114 @@
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\RakibPrisintationLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Driver.Forms.FRMDriversManagement.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.International_License.Forms.FRMInternationalLicenseManagement.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.Controls.CTRLDrivingLicense.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.International_License.Forms.FRMIssueInternationalLicense.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.International_License.Forms.FRMShowInternationalLicenseInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.Controls.CTRLShowLicenseInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.LocalLicense.Forms.FRMIssueLocalLicense.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.LocalLicense.Forms.FRMLicensesHistory.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.LocalLicense.Forms.FRMShowLicenseInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.LocalDrivingApps.Controls.CTRLShowLDLAppInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.LocalDrivingApps.FRMAddUpdateLDLApps.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.LocalDrivingApps.FRMLDLAppsManagement.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.Manage_Apps_Types.ctrlShowApplicationInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests.Controls.CTRLScheduledTest.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests.Controls.CTRLScheduleTest.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.LocalDrivingApps.Forms.FRMShowLDLAppInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Apps.LocalDrivingApps.FRMUpdateappsTypes.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Apps.Manage_Apps_Types.FRMAppstypes.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Main.FRMLoginScreen.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Main.FRMMainScreen.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.CTRLAddEditPerson.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.Controls.CTRLFilterShowInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.CTRLShowPersonInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.FRMAddEditPerson.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.FRMPeopleManagement.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Properties.Resources.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests.FRMAppointmentsList.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests.FRMSchduleTest.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests.FRMTakeTest.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests_Types.FRMTestsTypesManagement.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests_Types.FRMUpdateTests.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Controls.CTRLAddUpdateUser.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Controls.CTRLShowUserInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Forms.FRMAddUpdateUser.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Forms.FRMChangeUserPassword.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Forms.FRMShowUserInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Forms.FRMUsersManagement.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\RakibPrisintationLayer.csproj.GenerateResource.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\RakibPrisintationLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\bin\Debug\Rakib.exe
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\bin\Debug\Rakib.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\bin\Debug\BLayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\bin\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\bin\Debug\BLayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\bin\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\RakibPri.5A39958F.Up2Date
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.exe
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.pdb
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.International_License.Controls.CTRLShowIntLicenseInfo.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.LocalLicense.Controls.CTRLShowLicenseInfoWithFilter.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.FRMRenewLicense.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.Replasement_For_Last_Of_Damaged_License.Forms.FRMReplacementLicense.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.Detain_License.Forms.FRMDetainedLicensesManagement.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.Detain_License.Forms.FRMDetainLicense.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.Release_Detianed_License.Forms.FRMReleaseDetainedLicense.resources
+C:\Users\srash\Desktop\Programming\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.FRMShowPersonInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\bin\Debug\Rakib.exe
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\bin\Debug\Rakib.pdb
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\bin\Debug\BLayer.dll
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\bin\Debug\DALayer.dll
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\bin\Debug\BLayer.pdb
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\bin\Debug\DALayer.pdb
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\RakibPrisintationLayer.csproj.AssemblyReference.cache
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.Release_Detianed_License.Forms.FRMReleaseDetainedLicense.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.Detain_License.Forms.FRMDetainedLicensesManagement.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.Detain_License.Forms.FRMDetainLicense.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.Replasement_For_Last_Of_Damaged_License.Forms.FRMReplacementLicense.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Driver.Forms.FRMDriversManagement.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.International_License.Forms.FRMInternationalLicenseManagement.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.Controls.CTRLDrivingLicense.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.International_License.Forms.FRMIssueInternationalLicense.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.International_License.Controls.CTRLShowIntLicenseInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.FRMRenewLicense.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.International_License.Forms.FRMShowInternationalLicenseInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.Controls.CTRLShowLicenseInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.LocalLicense.Controls.CTRLShowLicenseInfoWithFilter.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.LocalLicense.Forms.FRMIssueLocalLicense.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.LocalLicense.Forms.FRMLicensesHistory.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Licenses.LocalLicense.Forms.FRMShowLicenseInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.LocalDrivingApps.Controls.CTRLShowLDLAppInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.LocalDrivingApps.FRMAddUpdateLDLApps.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.LocalDrivingApps.FRMLDLAppsManagement.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.Manage_Apps_Types.ctrlShowApplicationInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests.Controls.CTRLScheduledTest.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests.Controls.CTRLScheduleTest.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Applications.LocalDrivingApps.Forms.FRMShowLDLAppInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Apps.LocalDrivingApps.FRMUpdateappsTypes.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Apps.Manage_Apps_Types.FRMAppstypes.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Main.FRMLoginScreen.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Main.FRMMainScreen.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.CTRLAddEditPerson.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.Controls.CTRLFilterShowInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.CTRLShowPersonInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.FRMAddEditPerson.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.FRMPeopleManagement.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.People.FRMShowPersonInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Properties.Resources.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests.FRMAppointmentsList.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests.FRMSchduleTest.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests.FRMTakeTest.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests_Types.FRMTestsTypesManagement.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Tests_Types.FRMUpdateTests.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Controls.CTRLAddUpdateUser.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Controls.CTRLShowUserInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Forms.FRMAddUpdateUser.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Forms.FRMChangeUserPassword.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Forms.FRMShowUserInfo.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.Users.Forms.FRMUsersManagement.resources
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\RakibPrisintationLayer.csproj.GenerateResource.cache
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\RakibPrisintationLayer.csproj.CoreCompileInputs.cache
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\RakibPri.5A39958F.Up2Date
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.exe
+C:\Users\srash\Desktop\Programming\Road Map\19th Cource\Rakib\Rakib\obj\Debug\Rakib.pdb
