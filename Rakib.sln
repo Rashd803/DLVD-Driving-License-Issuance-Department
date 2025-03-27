@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakibPrisintationLayer", "Rakib\RakibPrisintationLayer.csproj", "{C632FDE7-62C2-49A8-999B-9E1860F3499A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BLayer\BusinessLayer.csproj", "{E62BB60F-E64D-4914-8D7A-BB1A39533FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DALayer\DataAccessLayer.csproj", "{7FB23F24-DE11-4EFA-BE30-9599B04A4161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C632FDE7-62C2-49A8-999B-9E1860F3499A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C632FDE7-62C2-49A8-999B-9E1860F3499A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C632FDE7-62C2-49A8-999B-9E1860F3499A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C632FDE7-62C2-49A8-999B-9E1860F3499A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62BB60F-E64D-4914-8D7A-BB1A39533FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62BB60F-E64D-4914-8D7A-BB1A39533FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62BB60F-E64D-4914-8D7A-BB1A39533FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62BB60F-E64D-4914-8D7A-BB1A39533FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB23F24-DE11-4EFA-BE30-9599B04A4161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB23F24-DE11-4EFA-BE30-9599B04A4161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB23F24-DE11-4EFA-BE30-9599B04A4161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB23F24-DE11-4EFA-BE30-9599B04A4161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
